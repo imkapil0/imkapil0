@@ -6,6 +6,9 @@
 - 💻 Keen interest in software development, particularly in solving real-world problems through code.
 - 🏆 Active participant in hackathons and coding challenges, constantly seeking opportunities to learn and grow.
 
+  
+## Current Status:- 
+
 - 🔭 I’m currently working on [Denoising Convolutional Neural Network (DnCNN)]project and more.
 - 🌱 I’m actively learning new technologies and contributing to open-source projects.
 - 🏆 Winner in KSU hackathon 2023 and Finalist at Tic Tech Toe 2024
