@@ -25,5 +25,5 @@
 ## 📈 GitHub Stats
 ![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/imkapil/)!
-Here's My Email:- imkapil1431@gmail.com
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/imkapil/)!
+- Here's My Email:- imkapil1431@gmail.com
